@@ -2,4 +2,5 @@
     background-color: #FF9E9E;
     display: flex; 
     align-items: column;
+    justify-content: space-between
 }
