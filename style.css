@@ -1,3 +1,7 @@
+.body{
+    margin: 0%;
+}
+
 .cabeçalho{
     background-color: #FF9E9E;
     display: flex; 
