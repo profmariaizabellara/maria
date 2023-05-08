@@ -4,6 +4,8 @@
 }
 
 .cabeçalho{
+    margin: 0px;
+    padding: 0px;
     background-color: #FF9E9E;
     display: flex; 
     align-items: center;
@@ -19,4 +21,6 @@
 .div-imagem-p1{
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
 }
