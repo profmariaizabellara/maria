@@ -59,6 +59,7 @@ body{
 .footer{
     align-items: center;
     text-align: center;
+    justify-content: center;
     background-color: #FF9E9E;
     color: #ffffff;
     left: 0px;
