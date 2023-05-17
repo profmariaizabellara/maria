@@ -41,8 +41,12 @@
 }
 
 .imagem-centro-body{
-    text-align: center;
-    width: 600px;
+    position: absolute;
+    width: 933px;
+    height: 446px;
+    left: 211px;
+    top: 990px;
+
 }
 
 .div-p6-p7-p8{
