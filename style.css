@@ -44,7 +44,7 @@ body{
 
 .imagem-body{
     width:800px;
-    align-items: center;
+    position: absolute;
 }
 
 .div-p6-p7-p8{
