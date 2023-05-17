@@ -46,7 +46,7 @@
 }
 
 .div-p6-p7-p8{
-    display: flex;
+    display: block;
     font-size: 25px;
     align-items: center;
     padding: 20px;
