@@ -43,6 +43,7 @@ body{
 .imagem-centro-body{
     display: flex;
     justify-content: center;
+    align-self: center;
 }
 
 .div-p6-p7-p8{
