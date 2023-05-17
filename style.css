@@ -43,6 +43,7 @@
 .imagem-centro-body{
     display: flex;
     justify-content: center;
+    align-items: center;
     width: 933px;
     height: 446px;
     left: 211px;
